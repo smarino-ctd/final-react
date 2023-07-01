@@ -1,0 +1,37 @@
+.footer{
+
+    /*width:100vw;*/
+    height:4vh;
+    display: flex;
+    justify-content:space-between;
+
+
+    margin:0rem;
+    margin-top:1.25rem;
+    padding:1.25rem;
+    background-color:blue;
+    font-size:1.5rem;
+
+}
+
+.info{
+
+    width:75%;
+
+
+}
+
+.autor{
+
+    color:white;
+    font-weight:bold;
+    margin:0rem;
+
+}
+
+.footerImg{
+
+    width:2.5rem;
+    height:2.5rem;
+
+}

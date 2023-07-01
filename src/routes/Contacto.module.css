@@ -1,0 +1,75 @@
+.contactoForm{
+
+    width:50%;
+    background-color:blue;
+    margin:1.25rem auto;
+    padding:1.25rem;
+    background:linear-gradient(to bottom, blue, white);
+    border:solid 1px blue;
+    border-radius:10px;
+
+}
+
+.formMain{
+
+    width:60rem;
+    margin:0rem auto;
+
+}
+
+.formTitle{
+
+    font-size:3rem;
+    text-align:center;
+    color:blue;
+
+}
+
+.formSubtitle{
+
+    font-size:1.5rem;
+    text-align:center;
+    color:blue;
+
+}
+
+.formInput{
+
+    display:block;
+    width:29.5rem;
+    height:3.125rem;
+    border-radius:10px;
+    font-size:1rem;
+    margin-bottom:20px;
+
+
+}
+
+.formBtn{
+
+    width:100%;
+    font-size:1rem;
+    background-color:blue;
+    color:white;
+
+}
+
+.envioValido{
+
+    font-size:1rem;
+    font-weight:bold;
+    color:lightgreen;
+    margin-top:10px;
+    text-align:center;
+
+}
+
+.errorEnvio{
+
+    font-size:1rem;
+    font-weight:bold;
+    color:red;
+    margin-top:10px;
+    text-align:center;
+
+}

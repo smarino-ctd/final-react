@@ -1,0 +1,48 @@
+.header{
+
+    /*width:100vw;*/
+    display:flex;
+    justify-content: space-between;
+    margin:0rem;
+    padding:1.25rem 0rem;
+    background-color:blue;
+    font-size:1.5rem;
+
+}
+
+.flex{
+
+    width:33%
+
+}
+
+.navBar{
+    
+    display:flex;
+    width:33%;
+    justify-content:space-between;
+    align-items:center;
+
+}
+
+.navImg{
+
+    width:6.43rem;
+    height:6.43rem;
+
+}
+
+a{
+    
+    margin-left:10px;
+    color:white;
+    font-weight:bold;
+
+}
+
+a:hover{
+
+    cursor:pointer;
+    color:gray
+
+}

@@ -1,0 +1,83 @@
+.card{
+
+    width:14rem;
+    height:24.875rem;
+    margin:12px;
+    display:inline-block;
+    text-align:center;
+    padding:1.25rem;
+    /*background-color:blue;*/
+    background:linear-gradient(to bottom, blue, white);
+    border:solid 1px blue;
+    border-radius:20px;
+    color:white
+
+}
+
+.cardApellido{
+
+    font-size:1.5rem;
+    font-weight:bold;
+    color:white;
+
+}
+
+.cardUsuario{
+
+    font-size:1rem;
+    font-weight:bold;
+    color:white;
+    margin-bottom:30px;
+
+}
+
+.favBtn{
+
+    display: inline-block;
+    width:11.5rem;
+    height:2.5rem;
+    background-color:blue;
+    color:white;
+    border-radius:10px;
+    padding:0.625rem 2.81rem;
+    margin-top:30px;
+
+}
+
+.favBtn:hover{
+
+    color:lightblue
+
+}
+
+.infoBtn{
+
+    width:11.5rem;
+    height:2.5rem;
+    background-color:blue;
+    color:white;
+    border-radius:10px;
+    padding:0.625rem 2.81rem;
+
+
+}
+
+.infoBtn:hover{
+
+    color:lightblue
+
+}
+
+.disBtn{
+
+    color:gray;
+
+}
+
+.cardImg{
+
+    width:9.375rem;
+    height:9.375rem;
+    border-radius:6.25rem;
+
+}
